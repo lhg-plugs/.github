@@ -1,5 +1,9 @@
 # lhg-plugs
 
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="lhg-plugs — 小白专家插件市场：86 个一句话调用的垂直领域插件">
+</p>
+
 小白专家插件市场：每个插件整合某垂直方向最佳 skill/工具，小白一句话调用。
 
 一键安装整个市场：
